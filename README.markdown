@@ -3,8 +3,6 @@
 ## Proje Hakkında
 **get_next_line**, 42 Network müfredatında yer alan bir C programlama projesidir. Bu proje, bir dosya tanımlayıcısından (file descriptor) satır satır okuma yapan bir `get_next_line` fonksiyonu geliştirmeyi amaçlar. Proje, dosya okuma, dinamik bellek yönetimi ve statik değişken kullanımı gibi C programlamanın temel kavramlarını öğrenmek için tasarlanmıştır. Kendi `get_next_line` fonksiyonumu yazarak, dosya işleme, hafıza yönetimi ve algoritmik düşünme becerilerimi geliştirdim.
 
-Bu proje, 42 İstanbul/Kocaeli kampüslerinde temel müfredatın bir parçası olarak tamamlanmıştır.
-
 ## Özellikler
 `get_next_line` fonksiyonu, aşağıdaki işlevselliği sağlar:
 
@@ -40,7 +38,7 @@ Bu proje, 42 İstanbul/Kocaeli kampüslerinde temel müfredatın bir parçası o
 ### Kurulum
 1. Repoyu klonlayın:
    ```bash
-   git clone https://github.com/[kullanici-adi]/get_next_line.git
+   git clone https://github.com/yusufdegerli/get_next_line.git
    cd get_next_line
    ```
 2. Proje, bağımsız bir fonksiyon olarak kullanılabilir. Test etmek için bir `main.c` dosyası oluşturun:
@@ -143,10 +141,5 @@ Eğer bu projeye katkıda bulunmak isterseniz:
 
 ## Lisans
 Bu proje, [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-
-## İletişim
-Sorularınız veya geri bildirimleriniz için:
-- GitHub: [kullanici-adi]
-- E-posta: [e-posta-adresi] (isteğe bağlı)
 
 **Not**: Bu README, 42 Network'ün get_next_line projesi için hazırlanmıştır. Projenizi 42 kurallarına uygun şekilde teslim ediyorsanız, lütfen 42'nin GitHub paylaşım politikalarını kontrol edin.
