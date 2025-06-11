@@ -26,8 +26,6 @@
 - `BUFFER_SIZE` değerinden bağımsız olarak doğru çalışabilme.
 - Hata durumlarında (örneğin, geçersiz `fd` veya bellek tahsis hatası) güvenilir davranış.
 
-**Not**: Bonus kısmı, projenizin kapsamına bağlı olarak eklendi veya eklenmedi. Eğer bonuslar implemente edildiyse, lütfen belirtin, README'yi güncelleyebilirim.
-
 ## Kurulum ve Kullanım
 
 ### Gereksinimler
